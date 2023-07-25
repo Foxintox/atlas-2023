@@ -1,0 +1,42 @@
+{
+	"id": 305,
+	"name": "Celebrating French women",
+	"description": "Famous/glorious french women. From top left to bottom right: Jeanne d'Arc (Joan of Arc, French folk heroine and saint), La Liberté guidant le peuple (Liberty Leading the People,\nPainting by Eugène Delacroix), Marie Curie (Polish-French physicist and chemist), Josephine Baker (American-born French dancer, singer and actress), Simone Veil (French politician), Sophie Adenot (French engineer, helicopter pilot, and astronaut).\n\nThomas Pesquet (French astronaut appearing on 2022 r/place canvas) proposed the idea to honor french women this year. This design created by u/Foxintoxx ensued by taking feedback from the R/PlaceFR discord adn was subsequently shared by supporters of the project until it was added to the French overlay and drawn by the community of french streamer Le Bouseuh.",
+	"links": {
+		"website": [
+			"https://twitter.com/Thom_astro/status/1681949898319572993",
+			"https://www.reddit.com/r/placeFR/comments/1552f9y/design_mise_%C3%A0_lhonneur_femme_fran%C3%A7ais/",
+			"https://www.reddit.com/r/placeFR/comments/15526da/version_finale_pour_les_femmes_francaises/",
+			"https://www.twitch.tv/lebouseuh/clip/NastySnappyGerbilKappaClaus-hWFLNmL3UGn2cQ6Y?filter=clips&range=7d&sort=time"
+		],
+		"subreddit": [
+			"placeFR"
+		]
+	},
+	"path": {
+		"36-258": [
+			[
+				-500,
+				-8
+			],
+			[
+				-368,
+				-8
+			],
+			[
+				-369,
+				-208
+			],
+			[
+				-500,
+				-204
+			]
+		]
+	},
+	"center": {
+		"36-258": [
+			-434,
+			-107
+		]
+	}
+}
